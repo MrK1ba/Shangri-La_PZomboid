@@ -1,0 +1,80 @@
+Privacy Policy for the Project Zomboid Integration Discord Bot
+
+Last Updated: December 28. 2025
+
+This Privacy Policy explains how the Project Zomboid Integration Discord Bot (“the Bot”, “we”, “our”, or “us”) collects, uses, and protects information when you interact with it on Discord. By using the Bot, you agree to the practices described in this policy.
+
+1. Information We Collect
+  The Bot only collects the minimum information required for functionality. Depending on your server configuration and bot features, this may include:
+
+  1.1 Discord Data
+      • User IDs
+      • Server IDs
+      • Channel IDs
+      • Message content (only if required for commands; not stored unless explicitly stated)
+      • Usernames / Nicknames (read-only, not stored)
+
+  1.2 Project Zomboid Data
+    If your server uses Project Zomboid integration features, the Bot may process:
+      • Player usernames
+      • Player Steam IDs
+      • In‑game stats or events (e.g., deaths, skills, server join/leave events)
+      • Server status information
+    No Project Zomboid data is stored permanently unless your server owner enables optional logging features.
+
+  1.3 Server Configuration Data
+    To operate correctly, the Bot may store:
+      • Bot settings and preferences
+      • Feature toggles
+      • Whitelisted/blacklisted channels
+      • Integration tokens or API keys (encrypted if stored)
+
+2. How We Use the Information
+  The Bot uses collected data solely to provide its intended functionality, including:
+      • Executing commands
+      • Displaying Project Zomboid server information
+      • Syncing in‑game events with Discord
+      • Moderation or automation features
+      • Logging (if enabled by server admins)
+  We do not sell, share, or use your data for advertising or analytics.
+
+3. Data Storage and Retention
+      • The Bot stores only the data necessary for configuration and operation.
+      • Temporary data (such as command inputs) is not stored long-term.
+      • Persistent data (such as server settings) remains until the server owner resets or removes the Bot.
+      • If logging features are enabled, logs remain on the server owner’s hosting environment, not ours.
+  If the Bot is self‑hosted by a server owner, they are responsible for data handling on their system.
+
+4. Data Sharing
+  We do not share any collected data with third parties except:
+      • Discord, as required by their API
+      • Project Zomboid servers/APIs, if needed for integration
+      • Server owners, who may access logs or configuration data stored on their own hosting environment
+  We do not transfer data to advertisers, analytics companies, or external services.
+
+5. Security
+  We take reasonable measures to protect data, including:
+      • Limiting stored data to essential information
+      • Avoiding storage of message content unless required
+      • Using secure storage for tokens or API keys
+      • Restricting access to authorized maintainers only
+  However, no system is completely secure. Server owners hosting the Bot are responsible for securing their own environment.
+
+6. Children’s Privacy
+  The Bot is intended for Discord users who comply with Discord’s minimum age requirement. We do not knowingly collect personal information from children under 13.
+
+7. Your Rights
+  Users may request:
+      • Removal of stored data
+      • Information about what data is stored
+      • Correction of inaccurate data
+  Server owners may reset or delete all Bot data at any time by removing the Bot or using built‑in reset commands.
+
+8. Changes to This Policy
+  We may update this Privacy Policy as needed. Continued use of the Bot after changes are posted constitutes acceptance of the updated policy.
+
+9. Contact
+  If you have questions or concerns about this Privacy Policy, you may contact the Bot developer at:
+    Email: kiba.xoom@gmail.com
+    Discord: https://discord.gg/YUFHk8rTUf
+    GitHub: MrK1ba/Shangri-La_PZomboid 
